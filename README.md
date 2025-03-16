@@ -15,4 +15,3 @@
 | 2024-10-30    | [KMU GenAI 해커톤 [굿페런츠 AI 도우미]](https://github.com/Ukja2/GoodParents)          | 🥉 장려상        |
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={Ukja2}&theme=dark"/>
