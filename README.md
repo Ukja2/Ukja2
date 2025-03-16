@@ -4,11 +4,13 @@ Hi, There! 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 ## 💻 Tech Stack
 
 <b>language</b>
-<p>
+<div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
-</p>
+</div>
+
 <p></p>
+
 <b>Web Server</b>
 <div><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/></div>
 
