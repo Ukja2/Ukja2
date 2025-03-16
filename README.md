@@ -10,7 +10,7 @@ Hi, There! 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ## 🔨Infrastructure
 <b>OS :&nbsp;</b>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 
 <b>Web Server :&nbsp;</b>
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
