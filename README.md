@@ -1,6 +1,8 @@
 Hi, There! 👋
 ---
-
+<div style="text-align: center; color: blue;">
+  이 텍스트는 중앙 정렬되고 파란색입니다.
+</div>
 
 
 ## 🏆 Awards
