@@ -7,16 +7,12 @@ Hi, There! 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 
-
-## 🔨Infrastructure
-<b>OS :&nbsp;</b>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-
 <b>Web Server :&nbsp;</b>
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
 
+## 🏃 Activity
 
-
+- 멋쟁이사자처럼 13기 아기사자 (2025.03.13 ~ )
 
 ## 🏆 Awards
 
