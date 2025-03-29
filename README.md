@@ -22,4 +22,3 @@ Hi 👋
 | 2024-10-30    | [KMU GenAI 해커톤 [굿페런츠 AI 도우미]](https://github.com/Ukja2/GoodParents)          | 🥉 장려상        |
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ukja2_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
