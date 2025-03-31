@@ -9,11 +9,7 @@ Hi 👋
 <b>Web Server :&nbsp;</b>
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
 
-## 🏃🏻 Activity
 
-|  Date      |  Detail               | 
-|:-------------:|:--------------------------------:|
-| 2025-03-14 ~    | 멋쟁이사자처럼 13기 🦁          |
 
 ## 🏆 Awards
 
