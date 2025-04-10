@@ -1,6 +1,6 @@
 Hi 👋 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
 <b>language :&nbsp;</b>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
@@ -9,14 +9,14 @@ Hi 👋
 <b>Web Server :&nbsp;</b>
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
 
-## 🏃🏻 Activity
+## Activity
 
 |  Date      |  Detail               | 
 |:-------------:|:--------------------------------:|
 | 2025-03-14 ~    | 멋쟁이사자처럼 13기 프론트엔드          |
 
 
-## 🏆 Awards
+## Awards
 
 |  Date       | Subject                     |  Type      |
 |:-------------:|:--------------------------------:|:---------------:|
