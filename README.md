@@ -16,7 +16,7 @@
 
 
 #### • Infra
-![Apache](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
 
 ## Activity
