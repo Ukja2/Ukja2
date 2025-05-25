@@ -48,11 +48,12 @@
 ## Stats
 
 <div style="text-align: left;"> 
-    <div align= "center"> 
+  <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Ukja2&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukja2&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"/> 
-    </div> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukja2&layout=compact&hide=html&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"/> 
+  </div> 
 </div>
+
 
 
 
