@@ -28,9 +28,3 @@
 
 
 
-<div style="text-align: left;"> 
-    <h2> Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=asd&bg_color=180,1a1a1a,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd&layout=compact&bg_color=180,1a1a1a,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
