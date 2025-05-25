@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
----
 
 ## Activity
 
@@ -33,7 +32,6 @@
 |----------------|----------------------------------|
 | 2025-03-14 ~   | 멋쟁이사자처럼 13기 프론트엔드 활동 |
 
----
 
 ## Awards
 
@@ -41,7 +39,6 @@
 |------------|----------------------------------------------------------------------------------------------|---------|
 | 2024-10-30 | [KMU GenAI 해커톤 - 굿페런츠 AI 도우미](https://github.com/Ukja2/GoodParents) | 🥉 장려상 |
 
----
 
 ## Stats
 
@@ -49,7 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ukja2&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff" />
 </div>
 
----
 
 ## Contact
 
