@@ -3,6 +3,23 @@
 </div>
 
 
+
+###  
+<br>
+<p align="center">
+  <a href="mailto:jaewooklee739@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;">
+  </a>
+  <a href="https://Ukja2.github.io">
+    <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Blog" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/jae-uk-lee-546629327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
+
 ## Tech Stack
 
 #### Language
@@ -26,18 +43,21 @@
 </div>
 
 
+
 ## Activity
 
-| Date           | Detail                          |
-|----------------|----------------------------------|
-| 2025-03-14 ~   | 멋쟁이사자처럼 13기 프론트엔드 활동 |
+| Date         | Detail                          |
+|--------------|----------------------------------|
+| 2025-03-14 ~ | 멋쟁이사자처럼 13기 프론트엔드 활동 |
+
 
 
 ## Awards
 
-| Date       | Subject                                                                                     | Type    |
-|------------|----------------------------------------------------------------------------------------------|---------|
+| Date       | Subject                                                                                     | Type     |
+|------------|----------------------------------------------------------------------------------------------|----------|
 | 2024-10-30 | [KMU GenAI 해커톤 - 굿페런츠 AI 도우미](https://github.com/Ukja2/GoodParents) | 🥉 장려상 |
+
 
 
 ## Stats
@@ -45,18 +65,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ukja2&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff" />
 </div>
-
-
-## Contact
-
-<p align="center">
-  <a href="mailto:jaewooklee739@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;">
-  </a>
-  <a href="https://Ukja2.github.io">
-    <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Blog" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/jae-uk-lee-546629327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
