@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcome+to+My+Github!&animation=scaleIn&fontColor=d9d9d9&fontSize=50" />
-</div>
-
-    
-    
 ## Tech Stack
 
 #### Language
