@@ -1,16 +1,18 @@
-## Hi there 👋
+## Activities
 
-<!--
-**Ukja2/Ukja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LIKELION at Keimyung University, 13th Generation (Mar 2025 ~ Present)
 
-Here are some ideas to get you started:
+  - Frontend track.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 42Gyeongsan, 3rd Generation (Jul 2025 ~ Aug 2025)
+
+  - 'La Piscine' program.
+
+## Awards
+
+- Keimyung University GEN AI Hackathon - Encouragement Prize
+
+## Contact
+
+- leejaeuk0202​@gmail.com
+
