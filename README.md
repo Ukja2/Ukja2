@@ -6,7 +6,7 @@
 
 - 42Gyeongsan, 3rd Generation (Jul 2025 ~ Aug 2025)
 
-  - 'La Piscine' program.
+  - La Piscine
 
 ## Awards
 
