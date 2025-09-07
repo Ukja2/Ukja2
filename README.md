@@ -8,7 +8,7 @@
 
   - La Piscine
  
-- Code Club, a visiting SW education volunteer group in the second half of 2025
+- Code Club, a visiting SW education volunteer group (Sep 2025 ~ Present)
 
   - Coding education for local elementary school students using Entry.
 
